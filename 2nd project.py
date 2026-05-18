@@ -5,7 +5,7 @@ import pandas as pd
 db=mysql.connector.connect(
     host="localhost",
     user="root",
-    password="vaishumanu",
+    password="",
     database="healthcaredb"
 )
 
